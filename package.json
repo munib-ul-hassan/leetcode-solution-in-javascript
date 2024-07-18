@@ -1,0 +1,23 @@
+{
+  "name": "leet-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "array": "nodemon src/array.js",
+    "binary": "nodemon src/binary.js",
+    "dynamic": "nodemon src/dynamic.js",
+    "graph": "nodemon src/graph.js",
+    "heap": "nodemon src/heap.js",
+    "interval": "nodemon src/interval.js",
+    "linkedlist": "nodemon src/linkedlist.js",
+    "matric": "nodemon src/matrix.js",
+    "string": "nodemon src/string.js",
+    "tree": "nodemon src/tree.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
